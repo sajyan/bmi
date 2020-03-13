@@ -1,7 +1,7 @@
 # bmi
 <!DOCTYPE html>
 <html>
-<head><title>BMI計算機</title><metacharset="utf-8" /></head>
+<head><title>BMI計算機</title></head>
 <body>
 <table>
 <tr><td>体重 (Kg):</td><td><input type="text" id="weight_box"></td></tr>
