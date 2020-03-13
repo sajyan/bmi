@@ -18,7 +18,7 @@ let msg = "";
 if (bmi < 18.5) {
 msg ="低体重";
 } else if (18.5 <= bmi && bmi < 25.0) {
-msg ="普通体重";
+msg ="標準体重";
 } else if (25.0 <= bmi && bmi < 30.0) {
 msg ="前肥満";
 } else {
