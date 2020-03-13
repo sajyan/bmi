@@ -1,5 +1,4 @@
 # bmi
-<!DOCTYPE html>
 <html>
 <head><title>BMI計算機</title></head>
 <body>
